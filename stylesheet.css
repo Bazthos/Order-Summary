@@ -194,6 +194,29 @@ main .card .cancel > p{
     main .card{
         width : 28rem;
     }
+    
+    main .card > h2{
+        font-size: 1.6rem;
+    }
+    main .card > p{
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+    }
+    main .card .subtotal > h3{
+        font-size: 1.1rem;
+    }
+    main .card .subtotal > h4{
+        font-size: 1.1rem;
+    }
+    main .card .subtotal .change{
+        font-size: 1rem;
+    }
+    main .card .payment > p{
+        font-size: 1rem;
+    }
+    main .card .cancel > p{
+        font-size: 1rem;
+    }
 
     main .card > img{
         margin-bottom: 2.2rem;
